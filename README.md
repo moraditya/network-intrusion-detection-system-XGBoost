@@ -88,6 +88,8 @@ For multiclass classification, the accuracy and detailed classification reports 
 ## GUI for Testing Predictions
 A simple **Tkinter GUI** allows users to test the model's predictions. Users can input a row index from the test set, and the GUI displays the predicted attack type and the actual attack type for that row. It also indicates whether the prediction was correct.
 
+![image](https://github.com/user-attachments/assets/65ecd501-4a94-46af-8b0a-27940aa29cd2)
+
 ## Technologies Used
 - **Python**: Core language used for building the project.
 - **XGBoost**: Classifier used for both binary and multiclass classification.
